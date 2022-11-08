@@ -11,7 +11,7 @@
       "channel_id": "1",
       "channel_name": "Channel 1",
       "channel_image": "",
-      "channel_url": "",
+      "channel_url": "https://www.youtube.com/embed/cKdd7cy9iqY",
       "channel_description": "",
       "channel_type": "2",
       "category_name": "Category 1"
@@ -20,7 +20,7 @@
       "channel_id": "2",
       "channel_name": "Channel 2",
       "channel_image": "",
-      "channel_url": "",
+      "channel_url": "https://www.youtube.com/embed/cKdd7cy9iqY",
       "channel_description": "",
       "channel_type": "2",
       "category_name": "Category 1"
